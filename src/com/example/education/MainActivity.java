@@ -18,6 +18,6 @@ public class MainActivity extends Activity {
         return true;
     }
     
-    // Fran: Trying to upload something
+    // Fran: Trying to upload something ()
     // Ralf: same here
 }
