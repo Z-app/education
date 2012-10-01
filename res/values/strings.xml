@@ -1,8 +1,10 @@
 <resources>
 
     <string name="app_name">Education</string>
-    <string name="hello_world">It just goes Z-APP and always look on the bright side of life</string>
-    <string name="menu_settings">Things that change stuff</string>
+    <string name="hello_world">It just goes Z-APP and Bananas!</string>
+    <string name="menu_settings">Settings</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="twitter">Twitter</string>
+    <string name="title_activity_twitter">TwitterActivity</string>
 
 </resources>
