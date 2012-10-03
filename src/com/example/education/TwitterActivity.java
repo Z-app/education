@@ -86,8 +86,10 @@ public class TwitterActivity extends ListActivity {
 		
 		@Override
 		protected void onPostExecute(Object result){
-			myArrayAdapter.addAll((Collection<? extends String>) result);
-			
+			ArrayList<String> tweets = (ArrayList<String>) result;
+			for(String tweet : tweets){
+				myArrayAdapter.add(tweet);
+			}
 			
 		}
 		
