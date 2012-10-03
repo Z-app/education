@@ -23,6 +23,11 @@ import android.os.Bundle;
 import android.widget.ArrayAdapter;
 public class TwitterActivity extends ListActivity {
 	
+	/*
+	 * Testing some stuff with Git. /Linus
+	 * 
+	 * 
+	 */
 	private ArrayAdapter<String> myArrayAdapter;
     /** Called when the activity is first created. */
     @SuppressWarnings({ "rawtypes", "unchecked" })
